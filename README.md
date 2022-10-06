@@ -2,7 +2,7 @@
 
 This code package is related to the paper:
 
-[Nerini, Matteo](https://www.imperial.ac.uk/people/m.nerini20), Valentina Rizzello, Michael Joham, Wolfgang Utschick, and Bruno Clerckx. "[Machine Learning-Based CSI Feedback With Variable Length in FDD Massive MIMO](https://arxiv.org/abs/2204.04723)." arXiv preprint arXiv:2204.04723 (2022).
+Nerini, Matteo, Valentina Rizzello, Michael Joham, Wolfgang Utschick, and Bruno Clerckx. "[Machine Learning-Based CSI Feedback With Variable Length in FDD Massive MIMO](https://arxiv.org/abs/2204.04723)." arXiv preprint arXiv:2204.04723 (2022).
 
 If you use this code or any modified part of it, please cite our original paper.
 
