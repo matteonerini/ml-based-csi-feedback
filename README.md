@@ -4,7 +4,7 @@ This code package is related to the paper:
 
 M. Nerini, V. Rizzello, M. Joham, W. Utschick and B. Clerckx, "[Machine Learning-Based CSI Feedback With Variable Length in FDD Massive MIMO](https://ieeexplore.ieee.org/document/9928062)," in IEEE Transactions on Wireless Communications, 2022.
 
-If you use this code or any modified part of it, please cite our original paper.
+If you use this code or any modified part of it, please cite our paper.
 
 ## Abstract
 
