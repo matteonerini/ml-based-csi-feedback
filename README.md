@@ -15,4 +15,4 @@ To fully unlock the benefits of multiple-input multiple-output (MIMO) networks, 
 The dataset can be downloaded [here](https://www.dropbox.com/scl/fo/qrwfwygxs801qoh88miwd/h?dl=0&rlkey=xblkn11p83eu0mn2j8hcksjtp).
 
 The file `main.m` returns the results needed to reproduce Fig. 4 in the paper.
-These results are saved in the folder `results` to easy the reproduction.
+These results are saved in the folder `results` to ease the reproduction.
