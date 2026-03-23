@@ -2,9 +2,7 @@
 
 This repository contains code to reproduce the paper:
 
-> M. Nerini, V. Rizzello, M. Joham, W. Utschick, B. Clerckx,
-> "[Machine learning-based CSI feedback with variable length in FDD massive MIMO](https://ieeexplore.ieee.org/document/9928062),"
-> IEEE Trans. Wireless Commun., 2022.
+> M. Nerini, V. Rizzello, M. Joham, W. Utschick, B. Clerckx, "[Machine learning-based CSI feedback with variable length in FDD massive MIMO](https://ieeexplore.ieee.org/document/9928062)," IEEE Trans. Wireless Commun., 2022.
 
 ## Code
 
